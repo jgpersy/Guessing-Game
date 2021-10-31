@@ -1,6 +1,6 @@
 ## Guessing game
 
-An over engineered Guessing Game!
+An over engineered CLI Guessing Game!
 
 You input your name, a lower bound, and an upper bound, and the script chooses a number within that range.
 
