@@ -11,3 +11,5 @@ It displays a random hint when you guess incorrectly.
 The script contains input validation, error checking, and a hint generator object.
 
 Developed on Python 3.9.5
+
+![console-demo](https://github.com/jgpersy/Guessing-Game/blob/master/console.png)
